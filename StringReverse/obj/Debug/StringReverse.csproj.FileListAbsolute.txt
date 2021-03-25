@@ -1,0 +1,7 @@
+C:\Users\Brandon Guerra\source\repos\StringReverse\StringReverse\bin\Debug\StringReverse.exe.config
+C:\Users\Brandon Guerra\source\repos\StringReverse\StringReverse\bin\Debug\StringReverse.exe
+C:\Users\Brandon Guerra\source\repos\StringReverse\StringReverse\bin\Debug\StringReverse.pdb
+C:\Users\Brandon Guerra\source\repos\StringReverse\StringReverse\obj\Debug\StringReverse.csprojAssemblyReference.cache
+C:\Users\Brandon Guerra\source\repos\StringReverse\StringReverse\obj\Debug\StringReverse.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Guerra\source\repos\StringReverse\StringReverse\obj\Debug\StringReverse.exe
+C:\Users\Brandon Guerra\source\repos\StringReverse\StringReverse\obj\Debug\StringReverse.pdb
